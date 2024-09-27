@@ -23,9 +23,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enessagroglu&show_icons=true&locale=en" alt="enessagroglu" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enessagroglu&" alt="enessagroglu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enessagroglu&show_icons=true&locale=en&layout=compact" alt="enessagroglu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enessagroglu&show_icons=true&locale=en" alt="enessagroglu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enessagroglu&" alt="enessagroglu" />
 </p>
+
+
 
 
 
