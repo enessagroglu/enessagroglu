@@ -4,7 +4,7 @@
 
 ### Hi, I'm Enes Sağıroğlu
 
-**Backend odaklı Full-Stack Developer · Istanbul, Turkey**
+**Full-Stack Developer · Istanbul, Turkey**
 
 [![Website](https://img.shields.io/badge/enessagiroglu.com-0d1117?style=flat-square&logo=google-chrome&logoColor=58a6ff)](https://enessagiroglu.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/enes-sa%C4%9F%C4%B1ro%C4%9Flu)
