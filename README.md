@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;.NET+%26+NextJs+Dev;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;.NET+%26+NextJS+Dev;Problem+Solver)](https://git.io/typing-svg)
 
 ### Hi, I'm Enes Sağıroğlu
 
@@ -16,9 +16,9 @@
 
 **🔧 Currently Building**
 
-> Full-Stack App with **NextJs & .NET** — Focused on backend technologies, building scalable APIs and exploring clean architecture patterns.
+> Full-Stack App with **NextJS & .NET** — Focused on backend technologies, building scalable APIs and exploring clean architecture patterns.
 
-`React` &nbsp; `.NET` &nbsp; `C#` &nbsp; `REST API`
+`NextJS` &nbsp; `.NET` &nbsp; `C#` &nbsp; `REST API`
 
 ---
 
