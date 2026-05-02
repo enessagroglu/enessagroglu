@@ -24,17 +24,30 @@
 
 **🛠 Languages & Tools**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,cs,dotnet,c,html,css,bootstrap,mongodb,mssql,azure,git,postman,vscode&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" width="48" height="48" alt="VB.NET" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![.NET Core](https://img.shields.io/badge/.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-0d1117?style=for-the-badge&logo=dot-net&logoColor=512BD4)
+![WinForms](https://img.shields.io/badge/WinForms-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Chart.js](https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chart.js&logoColor=FF6384)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+
+</div>
 
 ---
 
