@@ -79,16 +79,23 @@
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visualbasic" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="winforms" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enessagroglu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=7d8590&icon_color=3fb950" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enessagroglu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=7d8590" alt="Top Languages" />
-</p>
+### 🔥 GitHub Streak
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enessagroglu&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=7d8590&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" />
